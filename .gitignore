@@ -1,0 +1,6 @@
+dist/
+.DS_Store
+node_modules/
+.env*
+.doc-build/
+.map-cache/

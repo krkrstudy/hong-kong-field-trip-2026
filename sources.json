@@ -1,0 +1,251 @@
+{
+  "verified": "2026-10-08",
+  "sources": [
+    {
+      "id": "schedule",
+      "title": "V4 正式行程，2026年10月7日，用户提供",
+      "url": ""
+    },
+    {
+      "id": "policy",
+      "title": "新华社 习近平听取李家超述职报告 2025年12月16日",
+      "url": "https://www.xinhuanet.com/20251216/0aae233531fa42458c2cfaeb87b6bdb7/c.html"
+    },
+    {
+      "id": "policy2026",
+      "title": "香港行政长官2026年施政报告 第三章",
+      "url": "https://www.policyaddress.gov.hk/2026/sc/chapter3.html"
+    },
+    {
+      "id": "legco",
+      "title": "立法会 计划到访",
+      "url": "https://www.legco.gov.hk/cn/visiting/legislative-council-complex/plan-a-visit.html"
+    },
+    {
+      "id": "talent",
+      "title": "香港人才服务办公室 官方网站",
+      "url": "https://www.hkengage.gov.hk/"
+    },
+    {
+      "id": "invest",
+      "title": "投资推广署 2026年中诚信绿金业务报道及联系地址",
+      "url": "https://www.investhk.gov.hk/zh-cn/news/china-chengxin-green-finance-expands-hong-kong-business-for-go-global-enterprises-with-enhanced-esg-fintech-services/"
+    },
+    {
+      "id": "cyberport",
+      "title": "数码港 数码科技体验馆",
+      "url": "https://www.cyberport.hk/zh-hk/digital-tech-centre/"
+    },
+    {
+      "id": "aisphere",
+      "title": "香港城市大学 ArtX 爱诗科技交流报道",
+      "url": "https://www.artxhk.cityu.edu.hk/en/events/oases-and-aisphere"
+    },
+    {
+      "id": "hku",
+      "title": "香港大学政治与公共行政学系",
+      "url": "https://ppa.hku.hk/"
+    },
+    {
+      "id": "hkucontact",
+      "title": "香港大学政治与公共行政学系 联系地址",
+      "url": "https://ppa.hku.hk/dpa/contact_us.html"
+    },
+    {
+      "id": "hkuentry",
+      "title": "香港大学校园无障碍入口",
+      "url": "https://www.estates.hku.hk/campus-information/campus-accessibility/accessible-entrances-major-buildings-main-estate"
+    },
+    {
+      "id": "ai",
+      "title": "人工智能与机器人创新中心 联系地址",
+      "url": "https://www.cair-cas.org.hk/contact"
+    },
+    {
+      "id": "regen",
+      "title": "再生医学与健康创新中心",
+      "url": "https://crmh-cas.org.hk/"
+    },
+    {
+      "id": "park",
+      "title": "香港科技园 交通指南",
+      "url": "https://www.hkstp.org/en/visit/transportation"
+    },
+    {
+      "id": "parkabout",
+      "title": "香港科技园 科学园介绍",
+      "url": "https://www.hkstp.org/en/discover/sites/science-park"
+    },
+    {
+      "id": "dymon",
+      "title": "Dymon Asia 联系地址",
+      "url": "https://www.dymonasia.com/contact-us/"
+    },
+    {
+      "id": "green",
+      "title": "中诚信绿金国际 官方网站",
+      "url": "https://www.ccxgfi.com/zh-hans/"
+    },
+    {
+      "id": "hotel",
+      "title": "雅高 宜必思香港中上环酒店",
+      "url": "https://all.accor.com/hotel/7606/index.en.shtml"
+    },
+    {
+      "id": "airport",
+      "title": "香港国际机场 来往机场交通",
+      "url": "https://www.hongkongairport.com/en/transport/to-from-airport/"
+    },
+    {
+      "id": "mtr",
+      "title": "港铁 机场快线列车服务",
+      "url": "https://www.mtr.com.hk/en/customer/services/timetable_index.html"
+    },
+    {
+      "id": "mobility",
+      "title": "香港运输署 香港出行易",
+      "url": "https://www.hkemobility.gov.hk/"
+    },
+    {
+      "id": "weather",
+      "title": "香港天文台 天气警告",
+      "url": "https://www.hko.gov.hk/en/detail.htm"
+    },
+    {
+      "id": "emergency",
+      "title": "香港警务处 999紧急求助服务",
+      "url": "https://www.police.gov.hk/ppp_en/01_about_us/pp_operation.html"
+    },
+    {
+      "id": "osm",
+      "title": "OpenStreetMap 地图数据与许可",
+      "url": "https://www.openstreetmap.org/copyright"
+    }
+  ],
+  "photos": [
+    {
+      "place": "香港国际机场",
+      "source": "https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Hong_Kong,_2013-08-13,_DD_05.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "caption": "香港国际机场一号客运大楼实景；历史拍摄照片，现场标识与布局以当日为准。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "宜必思香港中上环酒店",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Des_Voeux_Road_West_IBIS_Hotel_June_2016_DSC.jpg",
+      "author": "Cymsingao nom",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "宜必思香港中上环酒店德辅道西外观，非客房照片。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港立法会综合大楼",
+      "source": "https://commons.wikimedia.org/wiki/File:Legislative_Council_Complex_201308.jpg",
+      "author": "Wing1990hk",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "caption": "添马现立法会综合大楼实景，2013年摄，非中环旧址。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港人才服务办公室",
+      "source": "https://commons.wikimedia.org/wiki/File:Revenue_Tower_(higher_resolution).JPG",
+      "author": "Exploringlife",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "湾仔税务大楼外观；用于标识人才办所在楼宇，不代表人才办内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港投资推广署",
+      "source": "https://commons.wikimedia.org/wiki/File:HK_%E9%87%91%E9%90%98_Admiralty_Cotton_Tree_Drive_%E6%9D%B1%E6%98%8C%E5%A4%A7%E5%BB%88_Fairmont_House_facade_%E7%90%B3%E5%AF%B6%E5%BE%91_Lambeth_Walk_September_2019_SSG_01.jpg",
+      "author": "Ho 297 300 885",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "金钟红棉路东昌大厦外观；用于标识投资推广署所在楼宇。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港数码港与数码科技体验馆",
+      "source": "https://commons.wikimedia.org/wiki/File:Cyberport_3.jpg",
+      "author": "Yukakei",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "数码港3座外观，非科技体验馆内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港大学政治与公共行政学系",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_Building_of_the_University_of_Hong_Kong_and_clock_tower.JPG",
+      "author": "Adon3465",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "caption": "香港大学本部大楼，展示校园环境；不是学系接待楼宇。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港大学校园",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_Building_of_the_University_of_Hong_Kong_and_clock_tower.JPG",
+      "author": "Adon3465",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "caption": "香港大学本部大楼及钟楼外观；校园环境图，不代表政治与公共行政学系办公室。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "中科院香港创新研究院 AI 中心",
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_Overview_201806.jpg",
+      "author": "Wpcpey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "中科院香港创新研究院再生医学中心",
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_in_May_2018.jpg",
+      "author": "Prosperity Horizons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "香港科技园公司",
+      "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_Phase_3_view_201601.jpg",
+      "author": "Wpcpey",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "Dymon Asia 香港",
+      "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Tower.jpg",
+      "author": "Exploringlife",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "caption": "中环置地广场公爵大厦 Edinburgh Tower 外观，非爱丁堡广场 Edinburgh Place；不代表Dymon Asia办公室内部。",
+      "modified": "尺寸缩放与显示裁切"
+    },
+    {
+      "place": "中诚信绿金公司",
+      "source": "https://commons.wikimedia.org/wiki/File:Jardine_House_(30913565151).jpg",
+      "author": "Joybot",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "caption": "中环怡和大厦外观，不代表中诚信绿金办公室内部。",
+      "modified": "尺寸缩放与显示裁切"
+    }
+  ],
+  "hero": {
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg",
+    "author": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "从太平山俯瞰维多利亚港及香港天际线，2019年夜景。"
+  }
+}

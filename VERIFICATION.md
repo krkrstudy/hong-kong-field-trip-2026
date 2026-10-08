@@ -1,0 +1,48 @@
+# 核验说明
+
+核查日期：2026年10月8日。
+
+## 权威层次
+
+1. 正式日程及组织信息：用户提供V4，已逐页阅读。
+2. 机构背景、楼层及入口：官方网页；和V4发生冲突时保留V4并标记。
+3. 楼宇参考坐标：OpenStreetMap查询并对照官方地址。公爵大厦采用Commons大堂地理定位；不是承诺的预约入口。
+4. 照片：Commons开放许可历史实景，作者与许可证保留。爱诗无可核实照片，明确留空。
+
+## 行程风险
+
+- 10月11日：抵港航班仅写“391”；航空公司代码、出发时刻、接机点和欢迎晚宴地点待确认。
+- 10月13日：爱诗科技地址缺失，30分钟转场不能判定可行。
+- 10月14日：学系交流与校园参观重叠30分钟；会议室、入口和导览起点待确认。
+- 10月15日：17W至15W仅15分钟；16:15活动结束即发车，需核对收尾与上车衔接。
+- 10月16日：中诚信绿金V4房号1904，与官网1902–1903不同；校友座谈地点待确认。
+- 全程：除接送机及15日中巴外，其余交通、午餐、领队集合时刻和具体接待人未在V4中列明。
+- 地图：已核实的楼宇或园区定位不等于预约入口；未核实地点不设标记，不绘制推测路线。
+
+## 通行时间
+
+未取得出行日期的实时道路路线和车程，不将直线距离转换为交通估时。95、30、15、60、175分钟均为正式日程所给时间的算术间隔，文中明确标注其不是核实车程。官方24分钟机场快线车程只用于备用出行提示，附来源。地图展示参考点及编号，无伪道路连线。
+
+## 实际位置证据
+
+- 香港国际机场：https://www.openstreetmap.org/way/772085062
+- 宜必思香港中上环酒店：https://www.openstreetmap.org/way/1210302024
+- 香港立法会综合大楼：https://www.openstreetmap.org/way/925188472
+- 香港人才服务办公室：https://www.openstreetmap.org/way/27087037
+- 香港投资推广署：https://www.openstreetmap.org/way/242113656
+- 香港数码港与数码科技体验馆：https://www.openstreetmap.org/way/231602699
+- 香港爱诗科技有限公司：未核实，不设地图点
+- 香港大学政治与公共行政学系：https://www.openstreetmap.org/way/315571039
+- 香港大学校园：https://www.openstreetmap.org/way/315571039
+- 中科院香港创新研究院 AI 中心：https://www.openstreetmap.org/way/733045755
+- 中科院香港创新研究院再生医学中心：https://www.openstreetmap.org/way/323784989
+- 香港科技园公司：https://www.openstreetmap.org/way/733045754
+- Dymon Asia 香港：https://commons.wikimedia.org/wiki/File:HK_中環_Central_置地廣場_Landmark_Edinburgh_Tower_office_main_lobby_visitors_queue_after_lunch_hours_February_2023_Px3_02.jpg
+- 中诚信绿金公司：https://www.openstreetmap.org/way/112684655
+
+## 排版与功能验收
+
+- Word/PDF 共30页，逐页视觉检查；修正了标题字体、日程表列宽和来源页留白。正文1.5倍行距，真实Word标题、目录和页码字段。
+- 逐项比对共享数据中的活动标题、时间和地点地址，Word与网页一致。
+- Chrome桌面1440px、手机390px完整测试；320px与768px补测，无横向溢出。七日切换、地点弹窗、地图筛选与定位、深链接、Escape关闭和键盘焦点约束通过。
+- 13个已核实地点标记；所有卡片照片加载成功；无JavaScript运行错误。

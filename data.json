@@ -1,0 +1,1055 @@
+{
+  "title": "第五届北京大学“香江翱翔”访港研学团",
+  "shortTitle": "香江翱翔",
+  "version": "V4 · 2026-10-07",
+  "verified": "2026-10-08",
+  "dates": "2026年10月11日至17日",
+  "organizers": "北京大学香港校友会和香港北大助学基金会发起支持",
+  "intro": "七天，从制度与公共服务到大学和科研现场，再到金融实践与校友对话。以具体问题进入香港，在观察与交流中理解专业知识如何回应社会需要。",
+  "places": [
+    {
+      "id": "airport",
+      "name": "香港国际机场",
+      "en": "Hong Kong International Airport",
+      "category": "交通",
+      "address": "抵港：一号客运大楼 T1；返程办理航厦与柜台以航空公司通知为准。",
+      "intro": "机场是这次访学的起点与终点。抵港后先完成入境和行李提取，再按领队通知到接机点集合。航班动态、办理柜台与登机口均可能变化，应以航空公司和机场当日信息为准。",
+      "topic": "从容抵离，完成团队交接",
+      "questions": [
+        "到达后核对人数、行李和接机安排。",
+        "返程前检查证件、值机与行李要求。"
+      ],
+      "entry": "V4仅给出抵达T1，没有指定接机门号；接机点与车牌待确认。",
+      "sources": [
+        "schedule",
+        "airport",
+        "mtr"
+      ],
+      "imageKey": "airport",
+      "coordinates": [
+        22.3138705,
+        113.9299798
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/772085062",
+      "coordinateObject": "一號客運大樓 Terminal 1",
+      "image": "assets/images/airport.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Aeropuerto_de_Hong_Kong,_2013-08-13,_DD_05.JPG",
+        "author": "Diego Delso",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption": "香港国际机场一号客运大楼实景；历史拍摄照片，现场标识与布局以当日为准。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "hotel",
+      "name": "宜必思香港中上环酒店",
+      "en": "ibis Hong Kong Central & Sheung Wan",
+      "category": "住宿",
+      "address": "香港上环德辅道西28号",
+      "intro": "酒店位于上环，是本次访学的住宿基地，也是科学园日及返程日中巴出发的明确起点。记住酒店英文名和街道地址，比仅依靠地图上的酒店图标更便于与司机沟通。入住后请熟悉电梯、疏散通道和团队集合方式。",
+      "topic": "在城市日常中建立观察的起点",
+      "questions": [
+        "留意上环街道中商业、居住与公共交通的关系。",
+        "把个人观察与正式访问中讨论的城市服务问题相联系。"
+      ],
+      "entry": "酒店大堂集合及具体上车路侧待领队确认；不可在车道上等待。",
+      "sources": [
+        "schedule",
+        "hotel"
+      ],
+      "imageKey": "hotel",
+      "coordinates": [
+        22.2874667,
+        114.1475969
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/1210302024",
+      "coordinateObject": "宜必思香港中上環酒店 Hotel ibis Hong Kong Central & Sheung Wan",
+      "image": "assets/images/hotel.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_Des_Voeux_Road_West_IBIS_Hotel_June_2016_DSC.jpg",
+        "author": "Cymsingao nom",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "宜必思香港中上环酒店德辅道西外观，非客房照片。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "legco",
+      "name": "香港立法会综合大楼",
+      "en": "Legislative Council Complex",
+      "category": "治理",
+      "address": "香港中区立法会道1号",
+      "intro": "立法会综合大楼把会议、档案与公众教育等功能组织在同一空间。此次参访可从一项公共议题如何进入审议程序入手，理解香港特区立法机关的运作。对制度的认识，应建立在程序、职责与实际案例之上。",
+      "topic": "从议事程序理解城市治理",
+      "questions": [
+        "法案审议、委员会工作和公众意见之间如何衔接？",
+        "公众教育设施如何向不同背景的访客解释制度？"
+      ],
+      "entry": "官方导赏团入口为公众入口1；实际团体报到点须由接待方确认。携带证件并接受安检，避免携带大件行李。",
+      "sources": [
+        "schedule",
+        "legco"
+      ],
+      "imageKey": "legco",
+      "coordinates": [
+        22.2812366,
+        114.1661813
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/925188472",
+      "coordinateObject": "立法會綜合大樓 Legislative Council Complex",
+      "image": "assets/images/legco.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Legislative_Council_Complex_201308.jpg",
+        "author": "Wing1990hk",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "caption": "添马现立法会综合大楼实景，2013年摄，非中环旧址。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "talent",
+      "name": "香港人才服务办公室",
+      "en": "Hong Kong Talent Engage",
+      "category": "治理",
+      "address": "香港湾仔告士打道5号税务大楼12楼",
+      "intro": "人才政策的效果，不只体现在吸引多少人来港，更体现在人才能否安顿生活、发挥专业所长并融入社会。人才服务办公室提供来港发展与生活支援信息，是理解政策如何转化为公共服务的一个窗口。",
+      "topic": "从人才流动走向社会融入",
+      "questions": [
+        "就业、住房、子女教育等需求如何被连接到具体服务？",
+        "青年选择一座城市时，哪些因素决定长期发展？"
+      ],
+      "entry": "按预约集体登记；12楼为公开办公地址，具体接待房间待确认。不把政策介绍视为个人申请承诺。",
+      "sources": [
+        "schedule",
+        "talent"
+      ],
+      "imageKey": "talent-office",
+      "coordinates": [
+        22.2797031,
+        114.1718218
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/27087037",
+      "coordinateObject": "稅務大樓 Revenue Tower",
+      "image": "assets/images/talent-office.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Revenue_Tower_(higher_resolution).JPG",
+        "author": "Exploringlife",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "湾仔税务大楼外观；用于标识人才办所在楼宇，不代表人才办内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "invest",
+      "name": "香港投资推广署",
+      "en": "Invest Hong Kong",
+      "category": "开放",
+      "address": "香港中环红棉路8号东昌大厦24楼",
+      "intro": "投资推广署面向有意在港设立或拓展业务的企业提供支援。参访可从企业进入一个市场的实际过程切入，理解专业服务、人才供给和制度环境怎样共同影响投资选择。香港的开放优势，也需要通过可使用、可理解的服务被企业感知。",
+      "topic": "企业落地背后的开放服务",
+      "questions": [
+        "从初次咨询到开展业务，企业通常需要哪些服务？",
+        "香港如何帮助内地企业连接国际市场与专业网络？"
+      ],
+      "entry": "按V4前往24楼；不要因其他旧网页写25楼而自行改层。大堂报到、证件与访客名单以接待方要求为准。",
+      "sources": [
+        "schedule",
+        "invest"
+      ],
+      "imageKey": "investhk",
+      "coordinates": [
+        22.2799416,
+        114.1627029
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/242113656",
+      "coordinateObject": "東昌大廈 Fairmont House",
+      "image": "assets/images/investhk.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:HK_%E9%87%91%E9%90%98_Admiralty_Cotton_Tree_Drive_%E6%9D%B1%E6%98%8C%E5%A4%A7%E5%BB%88_Fairmont_House_facade_%E7%90%B3%E5%AF%B6%E5%BE%91_Lambeth_Walk_September_2019_SSG_01.jpg",
+        "author": "Ho 297 300 885",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "金钟红棉路东昌大厦外观；用于标识投资推广署所在楼宇。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "cyberport",
+      "name": "香港数码港与数码科技体验馆",
+      "en": "Cyberport · Digital Tech Centre",
+      "category": "创科",
+      "address": "香港数码港道100号，数码港3座C区302室",
+      "intro": "数码港汇聚数字科技企业与创业支持资源。V4明确安排的科技体验馆位于3座C区302室；官方使用“数码科技体验馆”名称。观察技术演示时，可把注意力放在使用者、应用条件及实际成效上，进一步理解数字创新如何进入公共服务与产业场景。",
+      "topic": "从技术展示追问应用价值",
+      "questions": [
+        "演示解决了谁的问题，成效怎样验证？",
+        "初创企业需要怎样的技术、资金与市场支持？"
+      ],
+      "entry": "先核对3座、C区和302室三个层级；16:00爱诗科技地址未列明，不应默认在数码港内。拍摄前取得许可。",
+      "sources": [
+        "schedule",
+        "cyberport"
+      ],
+      "imageKey": "cyberport",
+      "coordinates": [
+        22.2604957,
+        114.131308
+      ],
+      "coordinateNote": "数码港3座楼宇定位，C区302室应按现场楼层导引查找。",
+      "coordinateSource": "https://www.openstreetmap.org/way/231602699",
+      "coordinateObject": "數碼港三座 Cyberport 3",
+      "image": "assets/images/cyberport.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Cyberport_3.jpg",
+        "author": "Yukakei",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "数码港3座外观，非科技体验馆内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "aisphere",
+      "name": "香港爱诗科技有限公司",
+      "en": "AIsphere · 英文法律全名待接待方确认",
+      "category": "创科",
+      "address": "待确认：V4未提供办公地址、入口或接待房间。",
+      "intro": "香港城市大学ArtX的交流报道介绍了爱诗科技及其AI视频生成产品PixVerse。本次访问可围绕生成式人工智能与文化生产展开：技术怎样降低表达门槛，又怎样处理内容真实性、版权和创作者权益。具体演示内容以接待方安排为准。",
+      "topic": "生成式影像与创作责任",
+      "questions": [
+        "如何评估视频生成的可控性、一致性和真实使用价值？",
+        "训练数据、作品署名及生成内容标识怎样落实？"
+      ],
+      "entry": "15:30数码港结束至16:00爱诗开始仅有30分钟。必须先确认地址及交通，不能据此认定转场可行。",
+      "sources": [
+        "schedule",
+        "aisphere"
+      ],
+      "imageKey": "aisphere",
+      "coordinates": null,
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "image": null,
+      "photo": null
+    },
+    {
+      "id": "hku",
+      "name": "香港大学政治与公共行政学系",
+      "en": "Department of Politics and Public Administration · HKU",
+      "category": "高校",
+      "address": "公开办公地址：香港薄扶林道香港大学赛马会教学楼；本次交流房间待确认。",
+      "intro": "学系交流为理解治理问题提供了学术视角。可以从教师与学生如何提出研究问题、选择证据和比较制度经验入手，讨论理论与香港社会实际之间的联系。访问的重点，是把课堂中的概念带入对话，也把对话中遇到的问题带回自己的学习。",
+      "topic": "把城市问题转化为研究问题",
+      "questions": [
+        "公共行政研究如何连接政策设计、执行和评估？",
+        "不同专业的学生能够怎样参与公共问题研究？"
+      ],
+      "entry": "官方办公地址不能视为本次会议室。V4的14:30–15:30交流与15:00–16:30校园参观重叠，须确认是否分组或改时。",
+      "sources": [
+        "schedule",
+        "hku",
+        "hkucontact",
+        "hkuentry"
+      ],
+      "imageKey": "hku",
+      "coordinates": [
+        22.2831956,
+        114.1346547
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/315571039",
+      "coordinateObject": "賽馬會教學樓 The Jockey Club Tower",
+      "image": "assets/images/hku.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Main_Building_of_the_University_of_Hong_Kong_and_clock_tower.JPG",
+        "author": "Adon3465",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption": "香港大学本部大楼，展示校园环境；不是学系接待楼宇。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "campus",
+      "name": "香港大学校园",
+      "en": "The University of Hong Kong · Main Campus",
+      "category": "高校",
+      "address": "香港薄扶林道香港大学本部校园；导览起点待确认。",
+      "intro": "校园参观可把建筑空间与大学生活联系起来观察：教学、研究、公共活动和学生交往如何在有限的城市空间内展开。照片中的本部大楼仅是校园观察对象，不代表此次学系交流的接待楼宇。沿途记录具体空间和使用方式，比罗列建筑名称更有助于理解大学。",
+      "topic": "大学空间与青年成长",
+      "questions": [
+        "哪些空间鼓励跨专业交流与公共讨论？",
+        "校园与周围城市如何保持联系？"
+      ],
+      "entry": "校园存在不同楼层和坡道；按校方导览行走，不自行进入教室、实验室或学生生活区。",
+      "sources": [
+        "schedule",
+        "hku",
+        "hkuentry"
+      ],
+      "imageKey": "hku",
+      "coordinates": [
+        22.2831956,
+        114.1346547
+      ],
+      "coordinateNote": "校园参考点设在赛马会教学楼附近；导览起点待确认。",
+      "coordinateSource": "https://www.openstreetmap.org/way/315571039",
+      "coordinateObject": "賽馬會教學樓 The Jockey Club Tower",
+      "image": "assets/images/hku.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Main_Building_of_the_University_of_Hong_Kong_and_clock_tower.JPG",
+        "author": "Adon3465",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "caption": "香港大学本部大楼及钟楼外观；校园环境图，不代表政治与公共行政学系办公室。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "ai",
+      "name": "中科院香港创新研究院 AI 中心",
+      "en": "Centre for Artificial Intelligence and Robotics · CAIR",
+      "category": "科研",
+      "address": "香港科学园科技大道西17号17W大厦3楼",
+      "intro": "官方名称为中国科学院香港创新研究院人工智能与机器人创新中心。参访可从研究问题与验证方式出发，理解人工智能如何与实体系统、具体任务相结合。在国家与香港科研协作的场景中，既看技术能力，也看研究组织与公共责任。",
+      "topic": "人工智能从实验走向现实",
+      "questions": [
+        "模型或机器人在真实环境中如何接受验证？",
+        "跨学科团队怎样处理数据、可靠性与应用边界？"
+      ],
+      "entry": "V4确定17W三楼；实际报到房间待确认。不得触碰实验设备或拍摄未获许可的屏幕及研究资料。",
+      "sources": [
+        "schedule",
+        "ai"
+      ],
+      "imageKey": "science-ai",
+      "coordinates": [
+        22.4267275,
+        114.2087091
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/733045755",
+      "coordinateObject": "17W",
+      "image": "assets/images/science-park-overview.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_Overview_201806.jpg",
+        "author": "Wpcpey",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "regen",
+      "name": "中科院香港创新研究院再生医学中心",
+      "en": "Centre for Regenerative Medicine and Health · CRMH",
+      "category": "科研",
+      "address": "香港科学园科技大道西15号15W大厦5楼",
+      "intro": "中心官方名称为再生医学与健康创新中心，其研究涉及细胞治疗、器官与组织再生及药物发现。由基础发现走向健康服务，需要一系列证据、质量控制和规范程序。此次访问可将生命科学与护理、心理、法律等专业问题联系起来，理解科技创新服务人的具体路径。",
+      "topic": "生命健康研究的证据与转化",
+      "questions": [
+        "实验结果如何逐步形成可用于临床研究的证据？",
+        "研究者如何解释风险、获益与伦理要求？"
+      ],
+      "entry": "10:45结束AI中心访问，11:00到15W五楼，仅有15分钟转场。提前核实步行路径、电梯及登记手续；遵守实验室防护要求。",
+      "sources": [
+        "schedule",
+        "regen"
+      ],
+      "imageKey": "science-regen",
+      "coordinates": [
+        22.4263422,
+        114.2092395
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/323784989",
+      "coordinateObject": "15W",
+      "image": "assets/images/science-park-lake.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_in_May_2018.jpg",
+        "author": "Prosperity Horizons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "park",
+      "name": "香港科技园公司",
+      "en": "Hong Kong Science and Technology Parks Corporation",
+      "category": "创科",
+      "address": "香港科学园19W大厦8楼活动室1",
+      "intro": "科学园把研发空间、企业服务与产业协作集中在同一园区。把上午的两家研究中心与下午的科技园访问联系起来，可以追问科研团队获得资源、寻找合作方和实现成果转化的过程。空间集聚是否带来有效合作，需要通过具体机制和案例来理解。",
+      "topic": "科研成果如何进入产业网络",
+      "questions": [
+        "园区如何连接研究团队、企业需求与投资资源？",
+        "成果转化如何兼顾长期研究与市场反馈？"
+      ],
+      "entry": "本次目的地为19W八楼活动室1，不是园区常规总部。16:15访问结束同时发车，建议领队与接待方预先商定收尾和上车衔接。",
+      "sources": [
+        "schedule",
+        "park",
+        "parkabout"
+      ],
+      "imageKey": "science-park",
+      "coordinates": [
+        22.4273104,
+        114.2081926
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/733045754",
+      "coordinateObject": "19W",
+      "image": "assets/images/science-park.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Science_Park_Phase_3_view_201601.jpg",
+        "author": "Wpcpey",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "caption": "香港科学园环境实景；不是此次接待房间或实验室内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    },
+    {
+      "id": "dymon",
+      "name": "Dymon Asia 香港",
+      "en": "Dymon Asia Capital (HK) Limited",
+      "category": "金融",
+      "address": "香港中环皇后大道中15号置地广场公爵大厦（Edinburgh Tower）36楼3605–3609室",
+      "intro": "金融机构访问为理解国际金融中心提供了职业与组织层面的视角。围绕研究、投资判断和风险管理展开交流，可以观察专业知识如何进入日常决策。应把提问放在方法、责任和人才培养上，避免要求接待方披露客户信息或未公开策略。",
+      "topic": "专业判断与风险意识",
+      "questions": [
+        "研究分析如何进入决策，又怎样接受复核？",
+        "在复杂市场环境中，机构如何培养风险意识？"
+      ],
+      "entry": "Edinburgh Tower位于置地广场，不是爱丁堡广场（Edinburgh Place）。按大堂指示办理访客登记，遵守保密与摄影要求。",
+      "sources": [
+        "schedule",
+        "dymon"
+      ],
+      "imageKey": "dymon",
+      "coordinates": [
+        22.280869,
+        114.157844
+      ],
+      "coordinateNote": "公爵大厦大堂照片的地理定位，仅作楼宇参考；本次入口以接待方确认及现场标识为准。",
+      "image": "assets/images/dymon.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Tower.jpg",
+        "author": "Exploringlife",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "caption": "中环置地广场公爵大厦 Edinburgh Tower 外观，非爱丁堡广场 Edinburgh Place；不代表Dymon Asia办公室内部。",
+        "modified": "尺寸缩放与显示裁切"
+      },
+      "coordinateSource": "https://commons.wikimedia.org/wiki/File:HK_中環_Central_置地廣場_Landmark_Edinburgh_Tower_office_main_lobby_visitors_queue_after_lunch_hours_February_2023_Px3_02.jpg"
+    },
+    {
+      "id": "green",
+      "name": "中诚信绿金公司",
+      "en": "China Chengxin Green Finance International",
+      "category": "金融",
+      "address": "V4：香港中环康乐广场1号怡和大厦1904室。官网列1902–1903室，房号待确认。",
+      "intro": "中诚信绿金国际提供绿色和可持续金融评估、ESG与气候相关服务。绿色发展进入金融决策，需要可核查的数据、清晰的评价边界与持续的信息披露。参访可从一个评估案例入手，理解环境目标怎样被转化为指标、证据与外部审查。",
+      "topic": "绿色金融如何建立可信证据",
+      "questions": [
+        "绿色项目评价需要哪些可核验的数据？",
+        "怎样区分实质改善、合规披露与宣传性表达？"
+      ],
+      "entry": "大楼地址一致、房号存在差异；保留V4的1904室并请领队核对。未经许可不传播企业资料和客户案例。",
+      "sources": [
+        "schedule",
+        "green",
+        "invest"
+      ],
+      "imageKey": "ccxgfi",
+      "coordinates": [
+        22.2830563,
+        114.1592342
+      ],
+      "coordinateNote": "建筑物定位，仅供寻找楼宇；不代表指定入口。",
+      "coordinateSource": "https://www.openstreetmap.org/way/112684655",
+      "coordinateObject": "怡和大廈 Jardine House",
+      "image": "assets/images/ccxgfi.jpg",
+      "photo": {
+        "source": "https://commons.wikimedia.org/wiki/File:Jardine_House_(30913565151).jpg",
+        "author": "Joybot",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "caption": "中环怡和大厦外观，不代表中诚信绿金办公室内部。",
+        "modified": "尺寸缩放与显示裁切"
+      }
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-10-11",
+      "day": 11,
+      "weekday": "周日",
+      "theme": "抵港与相识",
+      "region": "机场 · 上环",
+      "events": [
+        {
+          "time": "17:25",
+          "end": null,
+          "title": "预计抵达香港机场 T1",
+          "place": "airport",
+          "note": "北京飞香港，V4航班写作“391”，航空公司代码及出发时刻待确认。",
+          "status": "预计"
+        },
+        {
+          "time": "抵港后",
+          "end": null,
+          "title": "中巴接机与酒店入住",
+          "place": "hotel",
+          "note": "接机门号、车牌、入住时刻待确认。",
+          "status": "时间待确认"
+        },
+        {
+          "time": "19:00",
+          "end": null,
+          "title": "欢迎晚宴",
+          "place": null,
+          "note": "具体地点及结束时刻待确认。",
+          "status": "地点待确认"
+        }
+      ],
+      "transport": "V4已安排中巴接机。17:25至19:00共有95分钟，包含入境、取行李、集合、交通及可能的入住；晚宴地点未明，不能确认衔接可行。航班延误时由领队协调。",
+      "task": "先完成入住与团队联络，带着一个自己关心的香港社会问题开始访学。",
+      "notice": "不以预计落地时间作为可离开机场时间；领取行李后按领队指引集合。",
+      "map": {
+        "image": "assets/maps/day-11.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "airport",
+            "name": "香港国际机场"
+          },
+          {
+            "number": 2,
+            "id": "hotel",
+            "name": "宜必思香港中上环酒店"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "day": 12,
+      "weekday": "周一",
+      "theme": "制度运行与人才服务",
+      "region": "金钟 · 湾仔",
+      "events": [
+        {
+          "time": "11:00",
+          "end": "12:00",
+          "title": "参观香港立法会",
+          "place": "legco",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "14:30",
+          "end": "15:30",
+          "title": "参访香港人才服务办公室",
+          "place": "talent",
+          "note": "",
+          "status": "V4已列明"
+        }
+      ],
+      "transport": "V4未列明当天用车、酒店出发时间及午餐地点。立法会至税务大楼可使用实时步行或公共交通规划；请先核对公众入口1与税务大楼访客登记处。",
+      "task": "将立法程序与人才服务作对照，记录一项制度如何变成可感知的公共服务。",
+      "notice": "上午结束至下午开始有150分钟；这是一段行程间隔，不是已核实车程。",
+      "map": {
+        "image": "assets/maps/day-12.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "legco",
+            "name": "香港立法会综合大楼"
+          },
+          {
+            "number": 2,
+            "id": "talent",
+            "name": "香港人才服务办公室"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "day": 13,
+      "weekday": "周二",
+      "theme": "开放服务与数字创新",
+      "region": "中环 · 数码港",
+      "events": [
+        {
+          "time": "09:30",
+          "end": "10:30",
+          "title": "参访香港投资推广署",
+          "place": "invest",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "14:30",
+          "end": "15:30",
+          "title": "参访数码港及科技体验馆",
+          "place": "cyberport",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "16:00",
+          "end": "17:00",
+          "title": "参访香港爱诗科技有限公司",
+          "place": "aisphere",
+          "note": "地址与交通方式待确认。",
+          "status": "地点待确认"
+        }
+      ],
+      "transport": "投资署至数码港的交通未在V4中说明，出发前使用香港出行易或地图导航核实。数码港至爱诗科技仅预留30分钟，但终点地址缺失，暂不能判断可行性。",
+      "task": "沿着企业服务、创业平台与生成式AI三个环节，追问创新产品进入市场所需的条件。",
+      "notice": "数码港302室是明确到访点；不得把爱诗科技自行归入该楼宇或同一园区。",
+      "map": {
+        "image": "assets/maps/day-13.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "invest",
+            "name": "香港投资推广署"
+          },
+          {
+            "number": 2,
+            "id": "cyberport",
+            "name": "香港数码港与数码科技体验馆"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "day": 14,
+      "weekday": "周三",
+      "theme": "大学交流与公共问题",
+      "region": "香港大学",
+      "events": [
+        {
+          "time": "上午",
+          "end": null,
+          "title": "自由活动",
+          "place": null,
+          "note": "具体返回集合时间待领队通知。",
+          "status": "集合待确认"
+        },
+        {
+          "time": "14:30",
+          "end": "15:30",
+          "title": "政治与公共行政学系交流",
+          "place": "hku",
+          "note": "与校园参观重叠30分钟。",
+          "status": "时间冲突待确认"
+        },
+        {
+          "time": "15:00",
+          "end": "16:30",
+          "title": "香港大学校园参观",
+          "place": "campus",
+          "note": "是否分组或调整起止时间待确认。",
+          "status": "时间冲突待确认"
+        }
+      ],
+      "transport": "学校公开办公地点在赛马会教学楼，但本次会议室、入校方式与导览起点待确认。没有把本部大楼图片当作交流地点；按校方确认的入口导航。",
+      "task": "每人准备一个与本专业相关的公共问题，交流时说明问题、证据与比较视角。",
+      "notice": "保持V4原时间不擅自改动；建议主办方确认是否分组，或重新明确两项活动的衔接。",
+      "map": {
+        "image": "assets/maps/day-14.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "hku",
+            "name": "香港大学政治与公共行政学系"
+          }
+        ],
+        "note": "校园参考点；系所交流与校园导览的实际起点待确认。"
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "day": 15,
+      "weekday": "周四",
+      "theme": "前沿研究与成果转化",
+      "region": "香港科学园",
+      "events": [
+        {
+          "time": "09:00",
+          "end": null,
+          "title": "中巴从酒店出发",
+          "place": "hotel",
+          "note": "前往科学园。",
+          "status": "V4已列明"
+        },
+        {
+          "time": "10:00",
+          "end": "10:45",
+          "title": "中科院 AI 中心",
+          "place": "ai",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "11:00",
+          "end": "11:45",
+          "title": "中科院再生医学中心",
+          "place": "regen",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "15:00",
+          "end": "16:15",
+          "title": "参访香港科技园公司",
+          "place": "park",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "16:15",
+          "end": null,
+          "title": "中巴从科学园返回酒店",
+          "place": "park",
+          "note": "活动结束与发车同一时刻，集合点待确认。",
+          "status": "衔接待确认"
+        }
+      ],
+      "transport": "已确认中巴09:00从酒店出发、16:15从科学园返回。09:00至10:00是60分钟计划窗口，并非实测车程。园内17W至15W仅15分钟；楼宇入口、步行及电梯时间需接待方复核。",
+      "task": "把AI、生命健康与园区服务连成一条观察线索：研究、验证、转化分别需要什么条件？",
+      "notice": "15W至19W下午参访之间有午间空档，但午餐及自由活动范围未列明。不要擅自新增访问。",
+      "map": {
+        "image": "assets/maps/day-15.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "ai",
+            "name": "中科院香港创新研究院 AI 中心"
+          },
+          {
+            "number": 2,
+            "id": "regen",
+            "name": "中科院香港创新研究院再生医学中心"
+          },
+          {
+            "number": 3,
+            "id": "park",
+            "name": "香港科技园公司"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "day": 16,
+      "weekday": "周五",
+      "theme": "金融实践与校友对话",
+      "region": "中环",
+      "events": [
+        {
+          "time": "11:00",
+          "end": "12:00",
+          "title": "参访 Dymon Asia 香港",
+          "place": "dymon",
+          "note": "",
+          "status": "V4已列明"
+        },
+        {
+          "time": "14:30",
+          "end": "16:00",
+          "title": "参访中诚信绿金公司",
+          "place": "green",
+          "note": "1904室按V4保留；与官网1902–1903室差异待确认。",
+          "status": "房号待确认"
+        },
+        {
+          "time": "19:00",
+          "end": "21:30",
+          "title": "校友座谈",
+          "place": null,
+          "note": "地点、接待人员及交通方式待确认。",
+          "status": "地点待确认"
+        }
+      ],
+      "transport": "上午公爵大厦、下午怡和大厦都在中环，仍须使用实际步行导航并计入出入楼宇、登记和电梯时间。当天用车安排未明；晚间地址确定后才能规划转场。",
+      "task": "将专业判断与公共责任联系起来，向校友了解长期积累、职业选择与服务社会的具体经历。",
+      "notice": "旧版“全天自由活动”已取消。金融机构不询问未公开持仓、客户身份或敏感交易信息。",
+      "map": {
+        "image": "assets/maps/day-16.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "dymon",
+            "name": "Dymon Asia 香港"
+          },
+          {
+            "number": 2,
+            "id": "green",
+            "name": "中诚信绿金公司"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "day": 17,
+      "weekday": "周六",
+      "theme": "返程与整理",
+      "region": "上环 · 机场",
+      "events": [
+        {
+          "time": "11:00",
+          "end": null,
+          "title": "酒店集合乘中巴赴机场",
+          "place": "hotel",
+          "note": "集合路侧、退房和装行李截止时间待领队确认。",
+          "status": "V4已列明"
+        },
+        {
+          "time": "13:55",
+          "end": null,
+          "title": "预计乘 CX392 返回北京",
+          "place": "airport",
+          "note": "起飞时刻按V4；到达时刻、返程航厦、值机及登机口以航空公司通知为准。",
+          "status": "预计"
+        }
+      ],
+      "transport": "V4安排中巴送机。11:00至13:55为175分钟，涵盖路程、值机、安检和登机；不等于175分钟机场办理时间。请领队结合车程与航空公司截止要求复核出发安排。",
+      "task": "整理一条现场观察、一项仍待追问的问题和一份可继续阅读的材料。",
+      "notice": "提前结清个人消费，随身保管证件；不要把预计起飞时间作为到达登机口的时间。",
+      "map": {
+        "image": "assets/maps/day-17.png",
+        "legend": [
+          {
+            "number": 1,
+            "id": "hotel",
+            "name": "宜必思香港中上环酒店"
+          },
+          {
+            "number": 2,
+            "id": "airport",
+            "name": "香港国际机场"
+          }
+        ]
+      }
+    }
+  ],
+  "issues": [
+    "10月11日：抵港航班仅写“391”；航空公司代码、出发时刻、接机点和欢迎晚宴地点待确认。",
+    "10月13日：爱诗科技地址缺失，30分钟转场不能判定可行。",
+    "10月14日：学系交流与校园参观重叠30分钟；会议室、入口和导览起点待确认。",
+    "10月15日：17W至15W仅15分钟；16:15活动结束即发车，需核对收尾与上车衔接。",
+    "10月16日：中诚信绿金V4房号1904，与官网1902–1903不同；校友座谈地点待确认。",
+    "全程：除接送机及15日中巴外，其余交通、午餐、领队集合时刻和具体接待人未在V4中列明。",
+    "地图：已核实的楼宇或园区定位不等于预约入口；未核实地点不设标记，不绘制推测路线。"
+  ],
+  "changes": [
+    [
+      "名称及组织",
+      "“燕园翱翔”计划香港交流团",
+      "第五届北京大学“香江翱翔”访港研学团；北京大学香港校友会和香港北大助学基金会发起支持"
+    ],
+    [
+      "10月11日",
+      "抵港与入住时间笼统",
+      "新增航班391、预计17:25抵达T1、宜必思香港中上环酒店及中巴接机"
+    ],
+    [
+      "10月12日",
+      "10:00立法会；14:00投资署；16:00人才办",
+      "立法会11:00–12:00；人才办14:30–15:30；投资署移至13日"
+    ],
+    [
+      "10月13日",
+      "港交所、数码港、Web3.0、中环街市",
+      "投资署09:30–10:30；数码港14:30–15:30；爱诗16:00–17:00；未保留港交所、独立Web3.0讲座及中环街市"
+    ],
+    [
+      "10月14日",
+      "科学园、AIFT、AI中心、商汤",
+      "上午自由活动；港大系所交流与校园参观；存在30分钟重叠"
+    ],
+    [
+      "10月15日",
+      "西九文化区、M+、港大及校友座谈",
+      "科学园AI中心、再生医学中心、科技园；09:00及16:15中巴；删除旧版不在V4中的地点"
+    ],
+    [
+      "10月16日",
+      "全天自由活动",
+      "Dymon Asia、中诚信绿金及19:00–21:30校友座谈"
+    ],
+    [
+      "10月17日",
+      "12:00酒店送机",
+      "11:00酒店送机；预计13:55乘CX392起飞"
+    ]
+  ],
+  "sources": [
+    {
+      "id": "schedule",
+      "title": "V4 正式行程，2026年10月7日，用户提供",
+      "url": ""
+    },
+    {
+      "id": "policy",
+      "title": "新华社 习近平听取李家超述职报告 2025年12月16日",
+      "url": "https://www.xinhuanet.com/20251216/0aae233531fa42458c2cfaeb87b6bdb7/c.html"
+    },
+    {
+      "id": "policy2026",
+      "title": "香港行政长官2026年施政报告 第三章",
+      "url": "https://www.policyaddress.gov.hk/2026/sc/chapter3.html"
+    },
+    {
+      "id": "legco",
+      "title": "立法会 计划到访",
+      "url": "https://www.legco.gov.hk/cn/visiting/legislative-council-complex/plan-a-visit.html"
+    },
+    {
+      "id": "talent",
+      "title": "香港人才服务办公室 官方网站",
+      "url": "https://www.hkengage.gov.hk/"
+    },
+    {
+      "id": "invest",
+      "title": "投资推广署 2026年中诚信绿金业务报道及联系地址",
+      "url": "https://www.investhk.gov.hk/zh-cn/news/china-chengxin-green-finance-expands-hong-kong-business-for-go-global-enterprises-with-enhanced-esg-fintech-services/"
+    },
+    {
+      "id": "cyberport",
+      "title": "数码港 数码科技体验馆",
+      "url": "https://www.cyberport.hk/zh-hk/digital-tech-centre/"
+    },
+    {
+      "id": "aisphere",
+      "title": "香港城市大学 ArtX 爱诗科技交流报道",
+      "url": "https://www.artxhk.cityu.edu.hk/en/events/oases-and-aisphere"
+    },
+    {
+      "id": "hku",
+      "title": "香港大学政治与公共行政学系",
+      "url": "https://ppa.hku.hk/"
+    },
+    {
+      "id": "hkucontact",
+      "title": "香港大学政治与公共行政学系 联系地址",
+      "url": "https://ppa.hku.hk/dpa/contact_us.html"
+    },
+    {
+      "id": "hkuentry",
+      "title": "香港大学校园无障碍入口",
+      "url": "https://www.estates.hku.hk/campus-information/campus-accessibility/accessible-entrances-major-buildings-main-estate"
+    },
+    {
+      "id": "ai",
+      "title": "人工智能与机器人创新中心 联系地址",
+      "url": "https://www.cair-cas.org.hk/contact"
+    },
+    {
+      "id": "regen",
+      "title": "再生医学与健康创新中心",
+      "url": "https://crmh-cas.org.hk/"
+    },
+    {
+      "id": "park",
+      "title": "香港科技园 交通指南",
+      "url": "https://www.hkstp.org/en/visit/transportation"
+    },
+    {
+      "id": "parkabout",
+      "title": "香港科技园 科学园介绍",
+      "url": "https://www.hkstp.org/en/discover/sites/science-park"
+    },
+    {
+      "id": "dymon",
+      "title": "Dymon Asia 联系地址",
+      "url": "https://www.dymonasia.com/contact-us/"
+    },
+    {
+      "id": "green",
+      "title": "中诚信绿金国际 官方网站",
+      "url": "https://www.ccxgfi.com/zh-hans/"
+    },
+    {
+      "id": "hotel",
+      "title": "雅高 宜必思香港中上环酒店",
+      "url": "https://all.accor.com/hotel/7606/index.en.shtml"
+    },
+    {
+      "id": "airport",
+      "title": "香港国际机场 来往机场交通",
+      "url": "https://www.hongkongairport.com/en/transport/to-from-airport/"
+    },
+    {
+      "id": "mtr",
+      "title": "港铁 机场快线列车服务",
+      "url": "https://www.mtr.com.hk/en/customer/services/timetable_index.html"
+    },
+    {
+      "id": "mobility",
+      "title": "香港运输署 香港出行易",
+      "url": "https://www.hkemobility.gov.hk/"
+    },
+    {
+      "id": "weather",
+      "title": "香港天文台 天气警告",
+      "url": "https://www.hko.gov.hk/en/detail.htm"
+    },
+    {
+      "id": "emergency",
+      "title": "香港警务处 999紧急求助服务",
+      "url": "https://www.police.gov.hk/ppp_en/01_about_us/pp_operation.html"
+    },
+    {
+      "id": "osm",
+      "title": "OpenStreetMap 地图数据与许可",
+      "url": "https://www.openstreetmap.org/copyright"
+    }
+  ],
+  "heroPhoto": {
+    "source_page_url": "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg",
+    "author": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "description": "从太平山俯瞰维多利亚港及香港天际线，2019年夜景。"
+  },
+  "photoNote": "实景照片拍摄时间早于本次访问，用于认识建筑与环境；场地现状以现场为准。",
+  "overviewMap": {
+    "image": "assets/maps/overview.png",
+    "legend": [
+      {
+        "number": 1,
+        "id": "airport",
+        "name": "香港国际机场"
+      },
+      {
+        "number": 2,
+        "id": "hotel",
+        "name": "宜必思香港中上环酒店"
+      },
+      {
+        "number": 3,
+        "id": "park",
+        "name": "香港科技园公司"
+      }
+    ]
+  }
+}

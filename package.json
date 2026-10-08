@@ -1,0 +1,1 @@
+{"name":"hong-kong-field-trip","version":"1.0.0","private":true,"description":"V4 Hong Kong field trip handbook","scripts":{"build":"node scripts/build.mjs","check":"node scripts/check.mjs","serve":"python3 -m http.server 8765"}}
