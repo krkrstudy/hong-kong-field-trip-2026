@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "燕园翱翔香港实践团路书2026",
+  "short_name": "燕园翱翔路书",
+  "description": "2026年香港实践活动行程、参访地点及团员须知，支持提前保存后离线查阅。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#94070a",
+  "icons": [
+    {"src":"assets/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"assets/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"assets/icons/icon-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
